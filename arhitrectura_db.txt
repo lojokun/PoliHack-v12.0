@@ -1,0 +1,15 @@
+Camion 
+
+id  |  nr. matriculare  |   location  |  masa_masurata
+ 1  |	    SJ05MHI
+ 2  |       SV25SSR
+ 3  |       B115CRV
+
+Aviz
+
+id  |  cod  |  camion  |  data_emiterii  |  valabilitate  |  lemne  |  volum  | masa_calculata
+
+
+Lemne
+
+id  |   tipul_lemnului  | densitate
